@@ -37,6 +37,7 @@
 #### Go
 
 - [Go Tools](languages/go/go-tooling-cheat-sheet.png)
+- [Go 数据科学](languages/go/data-science-in-go-cheat-sheet.png)
 
 ### 辅助
 
