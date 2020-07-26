@@ -22,9 +22,13 @@
 
 ## 下载
 
-因为都是 PDF 格式，不想仓库过于庞大，仓库中只放了部分图片内容。需要完整 PDF 内容，请关注我的公众号，回复 666 获取。
+因为都是 PDF 格式，不想仓库过于庞大（当然也希望你关注我的公众号，支持下我），仓库中只放了部分图片内容。需要完整 PDF 内容，请关注我的公众号，回复 666 获取。（记得给本项目来个 Star，持续关注后续更新）
 
 ![polarisxu](polarisxu.jpg)
+
+如图片无法显示，请点击这里：[](https://static.studygolang.com/static/img/polarisxu-qrcode-m.jpg?imageView2/2/w/280)。
+
+也许你想加我的私人微信，跟我交流或进群交流：[个人名片](https://static.studygolang.com/static/img/gopherstudio2.png)。
 
 ## 📚内容索引
 
