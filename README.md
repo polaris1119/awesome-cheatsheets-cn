@@ -26,7 +26,7 @@
 
 ![polarisxu](polarisxu.jpg)
 
-如图片无法显示，请点击这里：[](https://static.studygolang.com/static/img/polarisxu-qrcode-m.jpg?imageView2/2/w/280)。
+如图片无法显示，请[点击这里](https://static.studygolang.com/static/img/polarisxu-qrcode-m.jpg?imageView2/2/w/280)。
 
 也许你想加我的私人微信，跟我交流或进群交流：[个人名片](https://static.studygolang.com/static/img/gopherstudio2.png)。
 
