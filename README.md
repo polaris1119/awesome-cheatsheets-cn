@@ -39,6 +39,7 @@
 - [Go Tools](languages/go/go-tooling-cheat-sheet.png)
 - [Uber Go 编码规范](languages/go/uber-go-guide-cheat-sheet.png)
 - [Go 数据科学](languages/go/data-science-in-go-cheat-sheet.png)
+- [Go fmt Printing](languages/go/go-fmt-printing-cheat-sheet.png)
 
 ### 辅助
 
