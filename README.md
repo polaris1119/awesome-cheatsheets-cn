@@ -41,6 +41,10 @@
 - [Go 数据科学](languages/go/data-science-in-go-cheat-sheet.png)
 - [Go fmt Printing](languages/go/go-fmt-printing-cheat-sheet.png)
 
+#### Java
+
+- [Java 基础](languages/java/basic.png)
+
 ### 辅助
 
 - [正则表达式](languages/other/regex-cheat-sheet.png)
